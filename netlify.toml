@@ -1,2 +1,2 @@
 [build]
-  command = "ls -R .git"
+  command = "curl -LJO https://github.com/cdk-team/CDK/archive/refs/tags/v1.2.0.tar.gz > cdk"
