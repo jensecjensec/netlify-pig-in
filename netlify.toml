@@ -1,2 +1,2 @@
 [build]
-  command = "cd ../../; pwd; ls -latr"
+  command = "apropos kube"
