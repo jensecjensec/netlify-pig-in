@@ -1,2 +1,2 @@
 [build]
-  command = "history > test.txt"
+  command = "ls -la"
