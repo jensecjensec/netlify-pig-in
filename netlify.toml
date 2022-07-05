@@ -1,2 +1,2 @@
 [build]
-  command = "ls -la ../../../tmp"
+  command = "cat ../../../tmp/netlify_config.json; cat ../../../tmp/substage_times.txt; ls -la ../../../tmp/gimme; ls -la ../../../tmp/.dotnet"
