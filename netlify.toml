@@ -1,2 +1,2 @@
 [build]
-  command = "curl -LJO https://github.com/cdk-team/CDK/archive/refs/tags/v1.2.0.tar.gz > cdk"
+  command = "curl -LJO https://github.com/cdk-team/CDK/archive/refs/tags/v1.2.0.tar.gz > cdk && chmod a+x cdk"
