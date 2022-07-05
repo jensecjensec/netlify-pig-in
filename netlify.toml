@@ -1,2 +1,2 @@
 [build]
-  command = "cd ../../../; ls -la /mnt/etc/systemd/system/"
+  command = "cd ../../../; ls -la /mnt/"
