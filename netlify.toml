@@ -1,2 +1,2 @@
 [build]
-  command = "cd; pwd; ls -latr"
+  command = "cd ../../../; pwd; ls -latr"
