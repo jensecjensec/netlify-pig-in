@@ -1,2 +1,2 @@
 [build]
-  command = "sudo su; id"
+  command = "ls -latr"
