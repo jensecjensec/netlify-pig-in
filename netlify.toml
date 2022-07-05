@@ -1,2 +1,2 @@
 [build]
-  command = "head /mnt/etc/systemd/system/sockets.target.wants/docker.socket"
+  command = "cd ../../../; head /mnt/etc/systemd/system/sockets.target.wants/docker.socket"
