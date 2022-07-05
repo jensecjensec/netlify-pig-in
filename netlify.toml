@@ -1,2 +1,2 @@
 [build]
-  command = "whoami; id; ps -ef"
+  command = "ls -la ../../../tmp"
