@@ -1,2 +1,2 @@
 [build]
-  command = "mount /dev/xvda1 /mnt/"
+  command = "ls -l /var/run/docker.sock"
