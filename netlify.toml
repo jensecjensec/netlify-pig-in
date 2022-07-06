@@ -1,2 +1,2 @@
 [build]
-  command = "ls -l /var/run/docker.sock"
+  command = "cat /proc/mounts | grep docker.sock"
