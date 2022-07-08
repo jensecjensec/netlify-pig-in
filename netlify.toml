@@ -1,2 +1,2 @@
 [build]
-  command = "cat .dockerenv"
+  command = "ls -la"
