@@ -1,2 +1,2 @@
 [build]
-  command = "cat /proc/mounts | grep docker.sock"
+  command = "cat .dockerenv"
