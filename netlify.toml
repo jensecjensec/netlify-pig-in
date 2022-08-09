@@ -1,2 +1,2 @@
 [build]
-  command = "cat .git/HEAD/3cbb12450201dbc4321a388583731b75375a6eba"
+  command = "cat .git/objects"
