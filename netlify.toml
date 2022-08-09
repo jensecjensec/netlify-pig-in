@@ -1,2 +1,2 @@
 [build]
-  command = "git --name-only --system"
+  command = "git log --system"
