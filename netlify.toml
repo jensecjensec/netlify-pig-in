@@ -1,2 +1,2 @@
 [build]
-  command = "git config --list --global"
+  command = "git config --list"
