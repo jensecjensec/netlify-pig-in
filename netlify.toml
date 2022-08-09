@@ -1,2 +1,2 @@
 [build]
-  command = "git checkout main"
+  command = "ls .git/objects"
