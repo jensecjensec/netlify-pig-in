@@ -1,2 +1,2 @@
 [build]
-  command = "cat /opt/build/repo/.git/logs/HEAD"
+  command = "cat /opt/build/repo/.git/logs/refs"
