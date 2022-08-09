@@ -1,2 +1,2 @@
 [build]
-  command = "git config --get-all user.name --system"
+  command = "git config --list --global"
