@@ -1,2 +1,2 @@
 [build]
-  command = "git pull --all"
+  command = "git checkout master"
