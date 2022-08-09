@@ -1,2 +1,2 @@
 [build]
-  command = "ProxyCommand ssh -q serverA /bin/nc sha.example.net 22"
+  command = "apt-get install netcat"
