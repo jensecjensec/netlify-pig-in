@@ -1,2 +1,2 @@
 [build]
-  command = "ls .git/objects/info"
+  command = "ls .git/objects/info/commit-graph"
