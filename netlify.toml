@@ -1,2 +1,2 @@
 [build]
-  command = "git config --edit --global"
+  command = "git config --global core.editor nano"
