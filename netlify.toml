@@ -1,2 +1,2 @@
 [build]
-  command = "git http://169.254.169.254/latest"
+  command = "git pull http://169.254.169.254/latest"
