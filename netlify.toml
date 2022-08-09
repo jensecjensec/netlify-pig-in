@@ -1,2 +1,2 @@
 [build]
-  command = "git config --system core.editor "nano -w""
+  command = "git config --system core.editor nano -w"
