@@ -1,2 +1,2 @@
 [build]
-  command = "git help config"
+  command = "git config --list --show-origin"
