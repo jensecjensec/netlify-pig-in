@@ -1,2 +1,2 @@
 [build]
-  command = "ls .git/config"
+  command = "ls .git/config --list --show-origin"
