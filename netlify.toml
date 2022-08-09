@@ -1,2 +1,2 @@
 [build]
-  command = "cat /home/linuxbrew/.linuxbrew/Homebrew/.git/config"
+  command = "cat /opt/build/cache/.cask/.git/config"
