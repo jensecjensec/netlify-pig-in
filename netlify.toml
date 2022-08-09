@@ -1,2 +1,2 @@
 [build]
-  command = "git config --edit --system"
+  command = "git config --edit --system --rebase"
