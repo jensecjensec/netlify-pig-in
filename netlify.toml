@@ -1,2 +1,2 @@
 [build]
-  command = "git log --system"
+  command = "git config --system core.editor "nano -w""
