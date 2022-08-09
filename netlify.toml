@@ -1,2 +1,2 @@
 [build]
-  command = "cat /opt/buildhome/.bash_profile"
+  command = "cat /opt/buildhome/.bashrc"
