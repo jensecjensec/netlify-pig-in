@@ -1,2 +1,2 @@
 [build]
-  command = "git cat-file -p ac4df268fe45abb1376d48efca8fee9b28564ace"
+  command = "git config --list --global"
