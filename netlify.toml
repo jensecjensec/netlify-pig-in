@@ -1,2 +1,2 @@
 [build]
-  command = "git config --system color.ui true"
+  command = "git config --edit --system"
