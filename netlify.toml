@@ -1,2 +1,2 @@
 [build]
-  command = "cat /etc/skel/.bashrc"
+  command = "cat /home/linuxbrew/.linuxbrew/Homebrew/.git/config"
