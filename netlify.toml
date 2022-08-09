@@ -1,2 +1,2 @@
 [build]
-  command = "git cat-file -p 8f32da40f36aaea1689578984d1ad8f4d72b18"
+  command = "cat .git/HEAD"
