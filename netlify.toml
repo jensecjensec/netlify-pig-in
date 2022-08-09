@@ -1,2 +1,2 @@
 [build]
-  command = "cat /opt/buildhome/.bashrc"
+  command = "cat /usr/lib/elixir/lib/eex/ebin/Elixir.EEx.Tokenizer.beam"
