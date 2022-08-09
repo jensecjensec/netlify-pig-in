@@ -1,2 +1,2 @@
 [build]
-  command = "cat .git/objects/info/packs"
+  command = "cat .git/HEAD"
