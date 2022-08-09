@@ -1,2 +1,2 @@
 [build]
-  command = "ls .git/objects/a2"
+  command = "cat .git/objects/a2/8f32da40f36aaea1689578984d1ad8f4d72b18"
