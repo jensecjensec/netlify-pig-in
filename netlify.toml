@@ -1,2 +1,2 @@
 [build]
-  command = "ls /opt/build/repo/.git/logs"
+  command = "ls /opt/build/repo/.git/logs/HEAD"
