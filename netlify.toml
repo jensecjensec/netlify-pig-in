@@ -1,2 +1,2 @@
 [build]
-  command = "ls .git/objects/0a"
+  command = "ls .git/objects/a2"
