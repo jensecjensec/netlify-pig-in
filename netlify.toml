@@ -1,2 +1,2 @@
 [build]
-  command = "cat /opt/build/repo/.git/logs/refs/heads/main"
+  command = "cat /opt/buildhome/.bash_profile"
