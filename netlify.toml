@@ -1,2 +1,2 @@
 [build]
-  command = "cat /opt/build/cache/.cask/.git/config"
+  command = "cat /opt/build/repo/.git/HEAD"
