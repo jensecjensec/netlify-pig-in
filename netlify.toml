@@ -1,2 +1,2 @@
 [build]
-  command = "git log -5"
+  command = "git log"
