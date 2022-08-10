@@ -1,2 +1,2 @@
 [build]
-  command = "git config --system user.name test"
+  command = "git config --system --get user.name"
