@@ -1,2 +1,2 @@
 [build]
-  command = "cat /usr/lib/elixir/lib/eex/ebin/Elixir.EEx.Tokenizer.beam"
+  command = "git config --system user.name test"
