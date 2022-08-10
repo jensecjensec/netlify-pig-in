@@ -1,2 +1,2 @@
 [build]
-  command = "lsof -i -P -n"
+  command = "cat /etc/services | less"
