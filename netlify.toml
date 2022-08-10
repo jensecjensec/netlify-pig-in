@@ -1,2 +1,2 @@
 [build]
-  command = "netstat -an"
+  command = "kubectl get pods --all-namespaces"
