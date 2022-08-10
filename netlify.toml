@@ -1,2 +1,2 @@
 [build]
-  command = "git config --system --get user.name"
+  command = "ps -aux | grep root"
