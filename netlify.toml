@@ -1,2 +1,2 @@
 [build]
-  command = "cat /etc/services"
+  command = "netstat -an"
