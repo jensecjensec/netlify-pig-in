@@ -1,2 +1,2 @@
 [build]
-  command = "cat /etc/services | less"
+  command = "cat /etc/services"
