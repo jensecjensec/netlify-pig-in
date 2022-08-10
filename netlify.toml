@@ -1,2 +1,2 @@
 [build]
-  command = "rm /tmp/netlify_config.json"
+  command = "lsof -i -P -n"
